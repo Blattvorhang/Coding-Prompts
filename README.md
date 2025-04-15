@@ -1,5 +1,5 @@
 # Coding-Prompts
-A series of prompts for improving the performance of coding agent. These prompts emphasize readability and maintainability, as well as in soft engineering, aiming to generate better code.
+A collection of prompts designed to enhance the performance of coding agents. These prompts focus on improving code readability, maintainability, and software engineering best practices to generate higher-quality outputs.
 
 - [Deep Learning](./deep_learning.md)
 
